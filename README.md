@@ -5,11 +5,12 @@
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=shunindesuuu&theme=onedark&show_icons=true" alt="Anurag's GitHub stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=shunindesuuu&theme=onedark&show_icons=true&cache_seconds=1800" alt="Anurag's GitHub stats"/>
       </a>
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shunindesuuu&layout=donut-vertical&theme=onedark&show&cache_seconds=1800" alt="Top Langs"/>
       </a>
     </td>
   </tr>
