@@ -10,7 +10,6 @@
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shunindesuuu&layout=donut-vertical&theme=onedark&show" alt="Top Langs"/>
       </a>
     </td>
   </tr>
