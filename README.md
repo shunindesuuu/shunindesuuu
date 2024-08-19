@@ -9,8 +9,8 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shunindesuuu&layout=donut-vertical&theme=onedark&show&cache_seconds=1800" alt="Top Langs"/>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=shunindesuuu&theme=onedark" alt="GitHub Streak"/>
       </a>
     </td>
   </tr>
